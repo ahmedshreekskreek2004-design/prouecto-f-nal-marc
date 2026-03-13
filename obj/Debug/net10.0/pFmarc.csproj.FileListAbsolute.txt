@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\pFmarc\bin\Debug\net10.0\pFmarc.exe
+C:\Users\ACER\Desktop\pFmarc\bin\Debug\net10.0\pFmarc.deps.json
+C:\Users\ACER\Desktop\pFmarc\bin\Debug\net10.0\pFmarc.runtimeconfig.json
+C:\Users\ACER\Desktop\pFmarc\bin\Debug\net10.0\pFmarc.dll
+C:\Users\ACER\Desktop\pFmarc\bin\Debug\net10.0\pFmarc.pdb
+C:\Users\ACER\Desktop\pFmarc\obj\Debug\net10.0\pFmarc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\pFmarc\obj\Debug\net10.0\pFmarc.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\pFmarc\obj\Debug\net10.0\pFmarc.AssemblyInfo.cs
+C:\Users\ACER\Desktop\pFmarc\obj\Debug\net10.0\pFmarc.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\pFmarc\obj\Debug\net10.0\pFmarc.dll
+C:\Users\ACER\Desktop\pFmarc\obj\Debug\net10.0\refint\pFmarc.dll
+C:\Users\ACER\Desktop\pFmarc\obj\Debug\net10.0\pFmarc.pdb
+C:\Users\ACER\Desktop\pFmarc\obj\Debug\net10.0\pFmarc.genruntimeconfig.cache
+C:\Users\ACER\Desktop\pFmarc\obj\Debug\net10.0\ref\pFmarc.dll
