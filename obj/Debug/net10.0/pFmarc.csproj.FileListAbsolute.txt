@@ -12,3 +12,4 @@ C:\Users\ACER\Desktop\pFmarc\obj\Debug\net10.0\refint\pFmarc.dll
 C:\Users\ACER\Desktop\pFmarc\obj\Debug\net10.0\pFmarc.pdb
 C:\Users\ACER\Desktop\pFmarc\obj\Debug\net10.0\pFmarc.genruntimeconfig.cache
 C:\Users\ACER\Desktop\pFmarc\obj\Debug\net10.0\ref\pFmarc.dll
+C:\Users\ACER\Desktop\pFmarc\obj\Debug\net10.0\pFmarc.sourcelink.json

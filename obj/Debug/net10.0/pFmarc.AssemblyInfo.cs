@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pFmarc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bd91e5d55ff0be7ec85a84631f8bd7ba015875e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eacf4443a9152d1c0d2834642520d3ce4fe1522")]
 [assembly: System.Reflection.AssemblyProductAttribute("pFmarc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pFmarc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
